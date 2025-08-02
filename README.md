@@ -66,7 +66,8 @@ Make sure urls.csv contains a list of URLs to evaluate.
 ✅ https://github.com
 ⚠ http://verify-paypal-login.in
 
-
+screenshots
+https://github.com/sameeksha2999/Phishing-URL-detection-using-Machine-Learning/blob/bf0b82a7eaa9917eb28dd84fa7df7d8aa7506df0/Screenshot%202025-08-02%20224419.png
 
 🎓 Learning Outcomes
 Applied machine learning for a real-world problem
